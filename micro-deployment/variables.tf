@@ -11,6 +11,10 @@ variable "availability_domain_name" {
   default = null
 }
 
+variable "show_advanced" {
+  default = false
+}
+
 
 ## Networking
 

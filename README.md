@@ -1,5 +1,11 @@
 # oci-arch-wordpress-mds
 
+## Updates by XieGuochao
+
+Use this link to deploy the stack with advanced options unlocked:
+
+Click [![Deploy to Oracle Cloud (New)](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://github.com/XieGuochao/oci-arch-wordpress-mds/releases/download/latest/wordpress-micro-deployment-unlock.zip)
+
 ## Prerequisites
 
 - Permission to `manage` the following types of resources in your Oracle Cloud Infrastructure tenancy: `vcns`, `internet-gateways`, `route-tables`, `security-lists`, `subnets`, `mysql-family`, and `instances`.
@@ -10,7 +16,7 @@ If you don't have the required permissions and quota, contact your tenancy admin
 
 ## Deploy Using Oracle Resource Manager
 
-1. Click [![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?region=home&zipUrl=https://github.com/oracle-quickstart/oci-arch-wordpress-mds/releases/latest/download/oci-arch-wordpress-mds-stack-latest.zip)
+1. Click [![Deploy to Oracle Cloud (Original)](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?region=home&zipUrl=https://github.com/oracle-quickstart/oci-arch-wordpress-mds/releases/latest/download/oci-arch-wordpress-mds-stack-latest.zip)
 
 
     If you aren't already signed in, when prompted, enter the tenancy and user credentials.

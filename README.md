@@ -4,7 +4,7 @@
 
 Use this link to deploy the stack with advanced options unlocked:
 
-Click [![Deploy to Oracle Cloud (New)](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://github.com/XieGuochao/oci-arch-wordpress-mds/releases/download/latest/wordpress-micro-deployment-unlock.zip)
+Click [![Deploy to Oracle Cloud (New)](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?region=home&zipUrl=https://github.com/XieGuochao/oci-arch-wordpress-mds/releases/download/latest/wordpress-micro-deployment-unlock.zip)
 
 ## Prerequisites
 
